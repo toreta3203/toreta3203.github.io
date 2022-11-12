@@ -2,15 +2,15 @@
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
 author:           HE Tao
-email:            toreta3203@gmail.com
+email:            sighingnow@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://toreta3203.github.io'
-baseurl:          'toreta3203.github.io'
+url:              'https://sighingnow.github.io'
+baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
