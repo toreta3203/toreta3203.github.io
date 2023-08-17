@@ -1,6 +1,10 @@
 # HSH - IT Study
 
-## Server
+# Server
 
-## Cloud Computing
+# Network
+
+# Python
+
+# Cloud Computing
 

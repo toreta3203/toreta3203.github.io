@@ -4,6 +4,7 @@ sort: 1
 
 # Server
 
+## Linux Server
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
