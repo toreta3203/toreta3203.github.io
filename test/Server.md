@@ -134,6 +134,7 @@ If a table is too wide, it should condense down and/or scroll horizontally.
 
 <!-- prettier-ignore-end -->
 
+<!--
 ---
 
 Code snippets like `var foo = "bar";` can be shown inline.

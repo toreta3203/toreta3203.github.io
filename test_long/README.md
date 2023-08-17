@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Folder 
+# Category 
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
