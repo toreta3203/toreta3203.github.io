@@ -2,8 +2,10 @@
 sort: 1
 ---
 
-# Markdown Elements
+# Server
 
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
@@ -118,9 +120,11 @@ Tables should have bold headings and alternating shaded rows.
 | Beastie Boys    | License to Ill | 1986 |
 
 If a table is too wide, it should condense down and/or scroll horizontally.
+-->
 
 <!-- prettier-ignore-start -->
 
+<!--
 | Artist            | Album           | Year | Label       | Awards   | Songs     |
 |-------------------|-----------------|------|-------------|----------|-----------|
 | Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin' Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
@@ -176,3 +180,4 @@ Large images should always scale down and fit in the content container.
 ```
 This is the final element on the page and there should be no margin below this.
 ```
+-->
